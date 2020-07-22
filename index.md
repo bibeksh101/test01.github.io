@@ -27,7 +27,13 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+    <section id="header" class="jumbotron text-center">
+        <h1 class="display-3">PATTERN</h1>
+        <p class="lead">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores, pariatur?</p>
+        <a href="" class="btn btn-primary">Do Something</a>
+        <a href="" class="btn btn-success">Another Thing</a>
+    </section>
+    
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bibeksh101/test01.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
